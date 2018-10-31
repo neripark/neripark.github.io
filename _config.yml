@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: neripark's tech blog.
 subtitle:
-description:
+description: 元SIerがWebエンジニアとして成長するブログ
 keywords:
-author: John Doe
-language:
+author: ねり
+language: ja
 timezone:
 
 # URL
